@@ -3,9 +3,11 @@
 
 
 
-![snake gif](https://github.com/freemind2023/freemind2023/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
-![snake gif dark](https://github.com/freemind2023/freemind2023/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/freemind2023/freemind2023/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryan.ahire1947) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freemind_consultancy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-d-ahire-0516a4221/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/freemind_2023) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AryanAhire2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:freemind.aryan@gmail.com) 
