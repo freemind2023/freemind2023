@@ -1,9 +1,41 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>Building AI-powered systems like voice calling agents, competitor intelligence dashboards, and automation workflows using LLMs<br><br>🤝 I’m looking to collaborate on  <br>AI/ML projects, SaaS tools, and automation systems that solve real business problems<br><br>🛠️ I’m looking for help with  <br>Scaling AI products, MLOps pipelines, and deploying production-ready ML systems<br><br>🌱 I’m currently learning  <br>Advanced Machine Learning, MLOps, LLM Engineering, and System Design for scalable AI applications<br><br>💬 Ask me about  <br>Python, Machine Learning, Data Science, Automation (n8n, Zapier), AI Agents, and SaaS building<br><br>⚡ Fun fact  <br>I combine business + tech to build real-world AI solutions, not just models 🚀
+## 💫 About Me:
 
+<table>
+<tr>
+<td width="70%">
 
+## 👨‍💻 About Me
 
-## 🐍 Contribution Snake
+🔭 I’m currently working on  
+Building AI-powered systems like voice calling agents, competitor intelligence dashboards, and automation workflows using LLMs  
+
+🤝 I’m looking to collaborate on  
+AI/ML projects, SaaS tools, and automation systems that solve real business problems  
+
+🛠️ I’m looking for help with  
+Scaling AI products, MLOps pipelines, and deploying production-ready ML systems  
+
+🌱 I’m currently learning  
+Advanced Machine Learning, MLOps, LLM Engineering, and System Design for scalable AI applications  
+
+💬 Ask me about  
+Python, Machine Learning, Data Science, Automation (n8n, Zapier), AI Agents, and SaaS building  
+
+⚡ Fun fact  
+I combine business + tech to build real-world AI solutions, not just models 🚀  
+
+</td>
+
+<td width="30%" align="center">
+
+## 🍄 Mario Mode
+
+<img src="https://raw.githubusercontent.com/freemind2023/freemind2023/main/mario.gif" width="200"/>
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/freemind2023/freemind2023/output/github-contribution-grid-snake.svg" />
