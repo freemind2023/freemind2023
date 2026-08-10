@@ -55,6 +55,10 @@ I combine business + tech to build real-world AI solutions, not just models 🚀
 ## 🎮 Contribution Universe
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/freemind2023/freemind2023/main/space-shooter.gif" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/freemind2023/freemind2023/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
 
@@ -67,19 +71,18 @@ I combine business + tech to build real-world AI solutions, not just models 🚀
 ## 📊 Stats & Game Rank
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freemind2023&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=freemind2023&theme=vision-friendly-dark&hide_border=false" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freemind2023&theme=vision" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=freemind2023&theme=vision-friendly-dark&hide_border=false" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freemind2023&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freemind2023&theme=vision" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freemind2023&theme=vision" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freemind2023&theme=vision" height="200"/>
 </p>
 
-## 🏆 Trophy Case
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=freemind2023&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=freemind2023&theme=vision" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=freemind2023&theme=vision&utcOffset=5.5" height="200"/>
 </p>
 
 ---
@@ -88,30 +91,30 @@ I combine business + tech to build real-world AI solutions, not just models 🚀
 
 <p align="center">
   <a href="https://github.com/freemind2023/AI-Competitor-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=AI-Competitor-Analyzer&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/AI-Competitor-Analyzer" width="410"/>
   </a>
   <a href="https://github.com/freemind2023/agentic-ai-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=agentic-ai-portfolio&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/agentic-ai-portfolio" width="410"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/freemind2023/ai-agents-ml-genai-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=ai-agents-ml-genai-portfolio&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/ai-agents-ml-genai-portfolio" width="410"/>
   </a>
   <a href="https://github.com/freemind2023/n8n-automations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=n8n-automations&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/n8n-automations" width="410"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/freemind2023/AI_Data_Foundation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=AI_Data_Foundation&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/AI_Data_Foundation" width="410"/>
   </a>
   <a href="https://github.com/freemind2023/freemindweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freemind2023&repo=freemindweb&theme=vision-friendly-dark&hide_border=false" />
+    <img src="https://opengraph.githubassets.com/1/freemind2023/freemindweb" width="410"/>
   </a>
 </p>
 
-<div align="center">👇 more on the pinned repos above — click any card to open it</div>
+<div align="center">👇 click any card to open the repo</div>
 
 ---
 
@@ -133,17 +136,14 @@ I combine business + tech to build real-world AI solutions, not just models 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=freemind2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=freemind2023&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=freemind2023&label=Thanks%20for%20visiting&color=00e5ff&style=for-the-badge" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
-<sub>Proudly created with GPRM ( https://gprm.itsvg.in ) — Contribution graphs auto-refresh daily via GitHub Actions</sub>
+<sub>Space Shooter, 3D skyline & snake graphs auto-refresh daily via GitHub Actions</sub>
 
 </div>
